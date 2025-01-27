@@ -21,8 +21,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:angeloporcella@msu.montana.edu"}
-  - {title: Github, icon: envelope, url: "https://github.com/angeloporcella"}
-  - {title: Linkedin, icon: envelope, url: "https://www.linkedin.com/in/angelo-porcella-313135232/"}
+  - {title: Github, icon: github, url: "https://github.com/angeloporcella"}
+  - {title: Linkedin, icon: linkedin-in, url: "https://www.linkedin.com/in/angelo-porcella-313135232/"}
 
 comments:
 #  disqus_shortname: ""    # see https://disqus.com/
