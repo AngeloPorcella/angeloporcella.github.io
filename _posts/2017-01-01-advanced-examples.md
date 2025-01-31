@@ -5,7 +5,7 @@ layout: post
 categories: media
 ---
 
-![Me](assets/images/kg20250127_mccarthy-porcella_angelo0065A.JPG)
+![Me](angeloporcella.github.io/assets/images/kg20250127_mccarthy-porcella_angelo0065A.JPG)
 
 
 ## MathJax
